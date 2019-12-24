@@ -15,7 +15,7 @@ Other notable contributors:
  - [marcingajda](https://github.com/marcingajda) made swipes work on Windows Phone
  - [mgarciaisaia](https://github.com/mgarciaisaia) added support for Android 2.3
  - [Anna Harren](https://github.com/iirelu/) maintained the parent repository
- - [sigod](https://github.com/sigod) are maintainers for this repository
+ - [sigod](https://github.com/sigod) maintained the parent repository.
  
 
 Many thanks to [rayhaanj](https://github.com/rayhaanj), [Mechazawa](https://github.com/Mechazawa), [grant](https://github.com/grant), [remram44](https://github.com/remram44) and [ghoullier](https://github.com/ghoullier) for the many other good contributions.
